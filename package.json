@@ -1,0 +1,14 @@
+{
+  "name": "vimeoexport",
+  "version": "1.0.0",
+  "description": "Exports My Videos from vimeo, and generates an html file",
+  "main": "ex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parker Jones",
+  "license": "MIT",
+  "dependencies": {
+    "vimeo": "^1.1.4"
+  }
+}
